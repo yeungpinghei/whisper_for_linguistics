@@ -64,7 +64,7 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 * WhisperX automatically detects the language in the recordings, but you may also specify it using the option `--language`. The list of all supported languages can be found [here](https://github.com/m-bain/whisperX/blob/f2da2f858e99e4211fe4f64b5f2938b007827e17/whisperx/alignment.py#L24-L58).
 
 3. If the program runs successfully, it should generate an .srt that looks like this:
-```srt
+```
 1
 00:00:00,831 --> 00:00:02,032
 [SPEAKER_01]: Nope, I wouldn't say so.
