@@ -65,7 +65,7 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 
 3. If the program runs successfully, it should generate an .srt that looks like this:
 ```srt
-   1
+1
 00:00:00,831 --> 00:00:02,032
 [SPEAKER_01]: Nope, I wouldn't say so.
 
@@ -84,5 +84,4 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 5
 00:00:17,420 --> 00:00:17,760
 [SPEAKER_00]: Okay.
-
-
+```
