@@ -63,6 +63,26 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 * If you want to perform speaker diarization, you must provide your Hugging Face access token using the option `--hf_token`. Replace `[your access token]` with your access token.
 * WhisperX automatically detects the language in the recordings, but you may also specify it using the option `--language`. The list of all supported languages can be found [here](https://github.com/m-bain/whisperX/blob/f2da2f858e99e4211fe4f64b5f2938b007827e17/whisperx/alignment.py#L24-L58).
 
-Listen to the example:
-https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/example.wav
+3. If the program runs successfully, it should generate an .srt that looks like this:
+```srt
+   1
+00:00:00,831 --> 00:00:02,032
+[SPEAKER_01]: Nope, I wouldn't say so.
+
+2
+00:00:02,132 --> 00:00:08,635
+[SPEAKER_01]: Like, I mean, close in the sense that it's still within the vicinity of the greater Kuala Lumpur area, right?
+
+3
+00:00:08,715 --> 00:00:11,037
+[SPEAKER_01]: Or what we would call the Kuala Lumpur Valley.
+
+4
+00:00:11,237 --> 00:00:16,579
+[SPEAKER_01]: But I think it would take at least like 30 to 40 minutes drive by car to get there.
+
+5
+00:00:17,420 --> 00:00:17,760
+[SPEAKER_00]: Okay.
+
 
