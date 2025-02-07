@@ -1,9 +1,9 @@
 # Whisper for Linguistics: Transcribe linguistic data using automatic speech recognition
 
-# What is automatic speech recognition (ASR)?
+### What is automatic speech recognition (ASR)?
 Automatic speech recognition is a technology that allows computers to convert human speech into text. It is also known as **computer speech recognition** or **speech-to-text**. Some examples of ASR in our daily life include automatic captions on YouTube, voice input on our phone, etc.
 
-# Why do we need ASR in sociolinguistic research?
+### Why do we need ASR in sociolinguistic research?
 Research in variationist sociolinguistics often involves analyzing large amount of naturalistic speech, e.g. sociolinguistic interviews. Audio recordings must be transcribed before any analysis can take place. Conventionally, data transcription is done manually which is super time-consuming and labor-intensive! In fact, transcribing an interview takes about **ten** hours for every hour of recorded speech ([Schilling, 2013](https://doi.org/10.1017/CBO9780511980541)). If you’re a busy grad student like me, you’d want to use ASR tools like [whisperX](https://github.com/m-bain/whisperX) to help you with data transcription. It will save you a LOT of time.
 
 # Let’s get started!
