@@ -38,7 +38,9 @@ pip install whisperx
 ```
 ### 4. Sign up for [Hugging Face](https://huggingface.co/)
 <img width="400" align="center" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/hugging_face.png" alt="Hugging Face log in">
+
 ### 5. Accept user agreement for [Segmentation](https://huggingface.co/pyannote/segmentation-3.0) and [Speaker-Diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
+
 ### 6. Click on your profile at the at the top-right corner and choose **Access Tokens**
 
 ### 7. Create a Hugging Face access token (read). Choose **Read** for token type.
@@ -87,3 +89,4 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 ```
 
 ### 4. You can then import the .srt file to [ELAN](https://archive.mpi.nl/tla/elan) or convert it to a Praat .TextGrid file using [this Python script](https://github.com/yeungpinghei/srt-to-praat).
+
