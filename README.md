@@ -9,7 +9,7 @@ Research in variationist sociolinguistics often involves analyzing large amount 
 # Let’s get started!
 <img width="1216" align="center" alt="whisperx-arch" src="https://raw.githubusercontent.com/m-bain/whisperX/refs/heads/main/figures/pipeline.png">
 
-* [WhisperX](https://github.com/m-bain/whisperX) is a multilingual ASR model based on [Whisper](https://github.com/openai/whisper)
+* [WhisperX](https://github.com/m-bain/whisperX) is a multilingual ASR model based on [OpenAI's Whisper](https://github.com/openai/whisper)
 * It is open-source, which means that it is freely available to the public
 * It supports [28 different languages](https://github.com/m-bain/whisperX/blob/f2da2f858e99e4211fe4f64b5f2938b007827e17/whisperx/alignment.py#L24-L58)
 * Key features:
