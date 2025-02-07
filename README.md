@@ -43,11 +43,11 @@ pip install whisperx
 
 ### 5. Accept user agreement for [Segmentation](https://huggingface.co/pyannote/segmentation-3.0) and [Speaker-Diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
 
-### 6. Click on your profile at the at the top-right corner and choose **Access Tokens**
+### 6. Click on your profile at the at the top-right corner and choose Access Tokens
 <img width="600" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/hugging_face_profile.png" alt="Hugging Face profile">
 
 ### 7. Create a Hugging Face access token (read). Choose **Read** for token type.
-<img width="600" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/create_token.png" alt="create token">
+<img width="650" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/create_token.png" alt="create token">
  
 ### 8. Save the access token. We will need this later.
 <img width="550" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/access_token.png" alt="access token">
