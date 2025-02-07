@@ -61,7 +61,7 @@ There are many different [models](https://github.com/ggerganov/whisper.cpp/blob/
 * `—compute_type` should be set to `int8` if you are using a Mac. Otherwise, you may skip this option.
 * `--output_format` determines the format of the output transcript. You may choose between `srt`, `vtt`, `txt`, `tsv`, `json`, or `all` for all formats
 * `--output_dir` determines where the output file is saved
-* `--diarize` activates speaker diarization (separating the speech of different speakers). You can use the options `--min_speakers` `—max_speakers` to specify the number of speakers.
+* `--diarize` activates speaker diarization (separating the speech of different speakers). You can use the options `--min_speakers` `--max_speakers` to specify the number of speakers.
 * If you want to perform speaker diarization, you must provide your Hugging Face access token using the option `--hf_token`. Replace `[your access token]` with your access token.
 * WhisperX automatically detects the language in the recordings, but you may also specify it using the option `--language`. The list of all supported languages can be found [here](https://github.com/m-bain/whisperX/blob/f2da2f858e99e4211fe4f64b5f2938b007827e17/whisperx/alignment.py#L24-L58).
 
