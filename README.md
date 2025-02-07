@@ -4,13 +4,16 @@
 Automatic speech recognition is a technology that allows computers to convert human speech into text. It is also known as **computer speech recognition** or **speech-to-text**. Some examples of ASR in our daily life include automatic captions on YouTube, voice input on our phone, etc.
 
 ### Why do we need ASR in sociolinguistic research?
-
-<img width="600" align="center" alt="interview" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/interview.png">
+<p align="center">
+  <img width="600" alt="interview" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/interview.png">
+</p>
 
 Research in variationist sociolinguistics often involves analyzing large amount of naturalistic speech, e.g. sociolinguistic interviews. Audio recordings must be transcribed before any analysis can take place. Conventionally, data transcription is done manually which is super time-consuming and labor-intensive! In fact, transcribing an interview takes about **ten** hours for every hour of recorded speech ([Schilling, 2013](https://doi.org/10.1017/CBO9780511980541)). If you’re a busy grad student like me, you’d want to use ASR tools like [whisperX](https://github.com/m-bain/whisperX) to help you with data transcription. It will save you a LOT of time.
 
 # Let’s get started!
-<img width="1216" align="center" alt="whisperx-arch" src="https://raw.githubusercontent.com/m-bain/whisperX/refs/heads/main/figures/pipeline.png">
+<p align="center">
+  <img width="1216" alt="whisperx-arch" src="https://raw.githubusercontent.com/m-bain/whisperX/refs/heads/main/figures/pipeline.png">
+</p>
 
 * [WhisperX](https://github.com/m-bain/whisperX) is a multilingual ASR model based on [OpenAI's Whisper](https://github.com/openai/whisper)
 * It is open-source, which means that it is freely available to the public
