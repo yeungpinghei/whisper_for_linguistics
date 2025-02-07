@@ -7,6 +7,7 @@ Automatic speech recognition is a technology that allows computers to convert hu
 Research in variationist sociolinguistics often involves analyzing large amount of naturalistic speech, e.g. sociolinguistic interviews. Audio recordings must be transcribed before any analysis can take place. Conventionally, data transcription is done manually which is super time-consuming and labor-intensive! In fact, transcribing an interview takes about **ten** hours for every hour of recorded speech ([Schilling, 2013](https://doi.org/10.1017/CBO9780511980541)). If you’re a busy grad student like me, you’d want to use ASR tools like [whisperX](https://github.com/m-bain/whisperX) to help you with data transcription. It will save you a LOT of time.
 
 # Let’s get started!
+<img width="1216" align="center" alt="whisperx-arch" src="https://raw.githubusercontent.com/m-bain/whisperX/refs/heads/main/figures/pipeline.png">
 * [WhisperX](https://github.com/m-bain/whisperX) is a multilingual ASR model based on [Whisper](https://github.com/openai/whisper)
 * It is open-source, which means that it is freely available to the public
 * It supports [28 different languages](https://github.com/m-bain/whisperX/blob/f2da2f858e99e4211fe4f64b5f2938b007827e17/whisperx/alignment.py#L24-L58)
