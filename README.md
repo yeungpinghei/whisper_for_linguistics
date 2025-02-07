@@ -1,9 +1,10 @@
 # Whisper for Linguistics: Transcribe linguistic data using automatic speech recognition
+
+### What is automatic speech recognition (ASR)?
 <p align="center">
   <img width="700" alt="whisperx-arch" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/asr.png">
 </p>
 
-### What is automatic speech recognition (ASR)?
 Automatic speech recognition is a technology that allows computers to convert human speech into text. It is also known as **computer speech recognition** or **speech-to-text**. Some examples of ASR in our daily life include automatic captions on YouTube, voice input on our phone, etc.
 
 ### Why do we need ASR in sociolinguistic research?
