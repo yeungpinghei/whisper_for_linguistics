@@ -1,6 +1,6 @@
 # Whisper for Linguistics: Transcribe linguistic data using automatic speech recognition
 <p align="center">
-  <img width="1216" alt="whisperx-arch" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/asr.png">
+  <img width="600" alt="whisperx-arch" src="https://github.com/yeungpinghei/whisper_for_linguistics/blob/main/figures/asr.png">
 </p>
 
 ### What is automatic speech recognition (ASR)?
