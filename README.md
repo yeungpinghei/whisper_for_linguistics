@@ -47,8 +47,7 @@ pip install whisperx
 ### 1. Download the example audio file `example.wav` from the GitHub repository. It is an excerpt from my Malaysian English interview data.
 2. Go to Terminal/Command Prompt and run the following command
 ```
-whisperx /your_directory/example.wav --model small --compute_type int8 --output_format srt 
---output_dir /your_directory/ --diarize --hf_token [your access token]
+whisperx /your_directory/example.wav --model small --compute_type int8 --output_format srt --output_dir /your_directory/ --diarize --hf_token [your access token]
 ```
 
 * Change `your_directory` to the directory where you saved the audio file
